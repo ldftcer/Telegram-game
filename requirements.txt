@@ -1,0 +1,12 @@
+python-telegram-bot==20.7
+motor==3.3.2
+pymongo>=4.0.0
+asyncio
+# json
+# random
+# datetime
+# logging
+# os
+# time
+# math 
+pillow
